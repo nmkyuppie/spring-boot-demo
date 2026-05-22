@@ -1,6 +1,6 @@
 package com.xcelevate.demo.repository;
 
-import com.xcelevate.demo.model.User;
+import com.xcelevate.demo.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

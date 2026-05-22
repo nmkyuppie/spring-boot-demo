@@ -1,6 +1,6 @@
 package com.xcelevate.demo;
 
-import com.xcelevate.demo.model.User;
+import com.xcelevate.demo.entity.User;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
